@@ -1,16 +1,18 @@
-# popolsuoh
+# flutter_hooks_test
 
-A new Flutter project.
+사용언어
+dart, node.js, mysql
 
-## Getting Started
+사용기술
+flutter, express
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+장점
+1. 리액트hook 쓸줄알면 편하다
+2. 코드가 더 짧아짐
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+단점
+1. 구글링했을때 관련자료 찾기가 쉽지 않다.
+
+
